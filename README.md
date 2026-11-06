@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Okey – Version A
-=======
-# Okey – Version B
->>>>>>> titel-b
+# Okey
 
 ### Usage
 
